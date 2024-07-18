@@ -6,3 +6,12 @@ if(x%2==0){
 else{
 	console.log(x+" is not even number.");
 }
+
+let n = 1;
+for(let i=n;i<100;i++){
+	if(i%2==0){
+		console.log(i+" ");
+	}
+}
+
+
