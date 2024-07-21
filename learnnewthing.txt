@@ -1,0 +1,10 @@
+today i read about pass authentication of github
+as i encounterd the problem to clone my git repo
+when i enter git clone and repository http link
+it was asking me about username and password
+even after entering corect password i ws getting error
+so today read about it on internet and found ssh key , then
+i created it add to my github account .
+then again when i tried to clone git repo this time i used ssh link to clone my
+repo and it worked excellent , this time it didnt even ask
+for my username or password aslo.
